@@ -1,0 +1,23 @@
+{
+  "title": {
+    "required": true
+  },
+  "description": {
+    "required": true
+  },
+  "start_date": {
+    "type": "date_time",
+    "required": true
+  },
+  "end_date": {
+    "type": "date_time",
+    "required": true
+  },
+  "address": {
+    "required": true
+  },
+  "photo": {
+    "type": "image",
+    "required": true
+  }
+}
